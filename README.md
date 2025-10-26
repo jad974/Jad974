@@ -23,10 +23,10 @@
 > 
 ### 🧩 Featured Projects
 
-- [**CyberSecurity IDS Lab**](https://github.com/jad974/CyberSecurity-IDS-Lab)  
+- [**CyberSecurity IDS Lab (Working on it)**](https://github.com/jad974/CyberSecurity-IDS-Lab)  
   🧠 Scapy-based Intrusion Detection Script for packet analysis.
 
-- [**AI Disease Prediction**](https://github.com/jad974/ai-disease-prediction)  
+- [**AI Disease Prediction (Working on it)**](https://github.com/jad974/ai-disease-prediction)  
   🤖 Machine learning model predicting diseases from datasets.
 
 - [**Projet Symphony**](https://github.com/jad974/Projet-Symphony)  
